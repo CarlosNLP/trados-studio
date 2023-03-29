@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+  <to>{student_name}</to>
+  <from>{instructor_name}</from>
+  <heading>{course_title} course</heading>
+  <body>Hey {student_name},\nWelcome! Course duration is {0} weeks.</body>
+</note>

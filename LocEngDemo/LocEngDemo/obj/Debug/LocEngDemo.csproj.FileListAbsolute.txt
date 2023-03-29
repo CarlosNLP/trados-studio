@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Trados\Trados Studio\Studio17\LocEngDemo.exe.config
+C:\Program Files (x86)\Trados\Trados Studio\Studio17\LocEngDemo.exe
+C:\Program Files (x86)\Trados\Trados Studio\Studio17\LocEngDemo.pdb
+C:\Docs\Localization Academy\Trados Studio\LocEngDemo\LocEngDemo\obj\Debug\LocEngDemo.csproj.AssemblyReference.cache
+C:\Docs\Localization Academy\Trados Studio\LocEngDemo\LocEngDemo\obj\Debug\LocEngDemo.csproj.SuggestedBindingRedirects.cache
+C:\Docs\Localization Academy\Trados Studio\LocEngDemo\LocEngDemo\obj\Debug\LocEngDemo.exe.config
+C:\Docs\Localization Academy\Trados Studio\LocEngDemo\LocEngDemo\obj\Debug\LocEngDemo.csproj.CoreCompileInputs.cache
+C:\Docs\Localization Academy\Trados Studio\LocEngDemo\LocEngDemo\obj\Debug\LocEngDemo.csproj.CopyComplete
+C:\Docs\Localization Academy\Trados Studio\LocEngDemo\LocEngDemo\obj\Debug\LocEngDemo.exe
+C:\Docs\Localization Academy\Trados Studio\LocEngDemo\LocEngDemo\obj\Debug\LocEngDemo.pdb
